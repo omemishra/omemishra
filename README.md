@@ -8,13 +8,13 @@
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=omemishra&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hey There Robots (*_*) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-### :Cyber Enthusiast: &nbsp;About Me :
+### :Cyber Security Enthusiast: &nbsp;About Me :
 
-I am a Full Cyber Enthusiast and Bug Bounty Hunter <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Cyber Security Enthusiast and Bug Bounty Hunter <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - 🔭 I Break Applications.
 - 🌱 Exploring Tools and Builds.
