@@ -14,7 +14,7 @@
 
 ### :Cyber Security Enthusiast: &nbsp;About Me :
 
-I am a Full Cyber Security Enthusiast and Bug Bounty Hunter <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Cyber Security Enthusiast and Bug Bounty Hunter <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - 🔭 I Break Applications.
 - 🌱 Exploring Tools and Builds.
