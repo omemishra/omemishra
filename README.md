@@ -19,7 +19,7 @@ I am a Full Cyber Security Enthusiast and Bug Bounty Hunter <img src="https://me
 - 🔭 I Break Applications.
 - 🌱 Exploring Tools and Builds.
 - ⚡ In my free time I solve problems.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg)](https://www.linkedin.com/in/omemishra)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-omemishra-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/omemishra)
 
 ---
 
